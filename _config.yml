@@ -1,49 +1,63 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
-title: Syafe DB #Your awesome title
-email: dhtpadu@gmail.com #youremail@domain.com
-description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Site settings
+title: "Mediator"
+description: > # this means to ignore newlines until "email:"
+   A Jekyll theme - Medium inspired
 
-baseurl: # the subpath of the site
-url: https://syafe.github.io/ # the base hostname & protocol for your site
+email: a-mail@mail.mail
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+float_logo: true # true, false (default)
 
-permalink: /:year-:month/:title
-timezone:
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-favicon: /assets/img/favicon.ico
+name: 'Dirk Fabisch'
+author: 'Dirk Fabisch'
+author_image: "/assets/images/author.jpg"
 
-google_analytics: #UA—XXXXXXXX-X
-disqus_shortname: #disqus shortname
-cusdis:
-    app_id: #your cusdis app_id
+paginate:	5
 
-user:
-  name: Syafe
-  pic: /assets/img/cat.jpg
-  picAlt: "catbook"
-  job: developer
-  aboutme: true # comment this out if you don't need the 'about' page.
+url: "http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@dirkfabisch'
 
-exclude:
-  - README.md
-  - LICENSE
-  - github
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
 
-defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      comment: true   
+#google_analytics: UA-XXXXX-X
 
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-markdown: kramdown 
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/dirkfabisch
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
-# Filtering Content
-show_drafts: null
-limit_posts: 0
-future:      false
-unpublished: false
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/dirkfabisch
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
