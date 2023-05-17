@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-date: 2012-05-22
+title: "WPT를 이용한 웹페이지 퍼포먼스 측정"
+date: 2023-05-15
 excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
 comments: true
