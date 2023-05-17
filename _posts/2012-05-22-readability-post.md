@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "WPT를 이용한 웹페이지 퍼포먼스 측정"
+title: "Web Page Performance Test"
 date: 2023-05-15
-excerpt: "A ton of text to test readability."
+excerpt: "WPT를 이용한 퍼포먼스 측정"
 tags: [sample post, readability, test]
 comments: true
 ---
@@ -10,16 +10,6 @@ comments: true
 # WPT를 이용한 웹페이지 퍼포먼스 측정
 WPT ([https://www.webpagetest.org/](https://www.webpagetest.org/)) 에서 제공하는 퍼포먼스 측정 기능과 API를 이용하여, 
 퍼포먼스 측정이 필요한 페이지의 로딩타임과 페이지에 나타나는 content 요소들의 상세 스펙들을 받아오는 작업이다.
-
-퍼포먼스 측정 및 content/resource/meta-tag 검증 흐름도
-``` mermaid
-graph LR
-A((URL List)) -- URL --> B[퍼포먼스 측정 request]
-A -- URL --> D[meta-tag 체크]
-B -- 테스트 ID --> C[WPT API Crawling]
-C -- WPT 결과 --> E[Result]
-D -- meta-tag 결과 --> E
-```
 
 ## 퍼포먼스 측정 테스트 ID 수집
 

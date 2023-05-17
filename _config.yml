@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+title:              SYAFE
+bio:                'Project History'
+description:        "나중에 쓸 설명"
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://syafe.github.io
+url:                https://syafe.github.io/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -44,13 +44,13 @@ github-url:         https://github.com/SYAFE
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          jaekyu_an
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:             username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
