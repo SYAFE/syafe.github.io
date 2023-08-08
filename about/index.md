@@ -18,7 +18,8 @@ comments: false
 코드를 이용해 로봇으로 자동화 시켜주는 업무를 수행했다.<br>
 아주 정밀하게 빠른 시간 내에 수행되도록 해야하므로 고도의 집중을 필요로 해서 실력이 좋은 소수의 정예 팀원으로 편성된다.<br>
 [회사 홈페이지](https://www.ytk-e.com/)<br>
-<a class="btn-info" href="{{ site.url }}/tags/#YUTAKA">YUTAKA 상세 프로젝트</a>
+<a class="btn-info" href="{{ site.url }}/tags/#YUTAKA">YUTAKA 상세 프로젝트</a><br>
+
 ---
 
 ### WISEWIRES
@@ -30,5 +31,6 @@ JAVA 언어와 NodeJS를 이용하여 API Request, 크롤링 기능을 구현하
 주임연구원 승진과 함께 팀 서브리더 및 프로젝트 파트장을 맡으면서,<br>
 여러 프로젝트들을 파악하고 스케쥴 조정과 인력 분배를 하여 프로젝트를 성공적으로 마무리 하고 있다.<br>
 [회사 홈페이지](https://www.wisewires.com/)<br>
-<a class="btn-info" href="{{ site.url }}/tags/#WISEWIRES">WISEWIRES 상세 프로젝트</a>
+<a class="btn-info" href="{{ site.url }}/tags/#WISEWIRES">WISEWIRES 상세 프로젝트</a><br>
+
 ---
