@@ -20,7 +20,7 @@ comments: false
 [회사 홈페이지](https://www.ytk-e.com/)<br>
 <a class="btn-info" href="{{ site.url }}/tags/#YUTAKA">YUTAKA 상세 프로젝트</a><br>
 
----
+***
 
 ### WISEWIRES
 QA 업무를 전문으로 하는 회사로서,<br>
@@ -33,4 +33,4 @@ JAVA 언어와 NodeJS를 이용하여 API Request, 크롤링 기능을 구현하
 [회사 홈페이지](https://www.wisewires.com/)<br>
 <a class="btn-info" href="{{ site.url }}/tags/#WISEWIRES">WISEWIRES 상세 프로젝트</a><br>
 
----
+***
