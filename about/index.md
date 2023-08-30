@@ -12,7 +12,7 @@ comments: false
 * WISEWIRES 주임연구원 승진 및 자동화팀 서브리더, 삼성닷컴 프로젝트 파트장 (2023 ~ )
 <br>
 
-## 업무활동 소개
+## 업무활동 소개<br>
 
 ### YUTAKA 전자공업
 로봇 자동화를 구축하여 고객처의 공장에 도입 및 매니지먼트를 하는 회사로서,<br>
@@ -22,7 +22,7 @@ MITSUBISHI 언어 코드를 이용해 로봇으로 자동화 시켜주는 업무
 [회사 홈페이지](https://www.ytk-e.com/)<br>
 <a class="btn btn-info" href="{{ site.url }}/tags/#YUTAKA">YUTAKA 상세 프로젝트</a><br>
 
-***
+***<br>
 
 ### WISEWIRES
 QA 업무를 전문으로 하는 회사로서,<br>
@@ -35,4 +35,4 @@ JAVA 언어와 NodeJS를 이용하여 API Request, 크롤링 기능을 구현하
 [회사 홈페이지](https://www.wisewires.com/)<br>
 <a class="btn btn-info" href="{{ site.url }}/tags/#WISEWIRES">WISEWIRES 상세 프로젝트</a><br>
 
-***
+***<br>
